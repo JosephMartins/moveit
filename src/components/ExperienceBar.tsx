@@ -9,4 +9,5 @@ export function ExperienceBar() {
       <span>600 xp</span>
     </header>
   )
+  
 }
